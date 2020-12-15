@@ -10,15 +10,15 @@ title = "Rich Content"
 Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
 <!--more-->
 
----
+***
 
 ## Instagram Simple Shortcode
 
-{{< instagram_simple BGvuInzyFAe hidecaption >}}
+{..{< instagram_simple BGvuInzyFAe hidecaption >}..}
 
 <br>
 
----
+***
 
 ## YouTube Privacy Enhanced Shortcode
 
@@ -26,7 +26,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 <br>
 
----
+***
 
 ## Twitter Simple Shortcode
 
@@ -34,7 +34,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 <br>
 
----
+***
 
 ## Vimeo Simple Shortcode
 
